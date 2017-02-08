@@ -8,14 +8,14 @@ A Vue favorite/like/recommend component.
 ## Installation
 
 ```
-npm install vue-avatar
+npm install vue-favorite
 ```
 
 ## Usage
 
 ```
 import Vue from 'vue'
-import Favorite from './Favorite.vue'
+import Favorite from 'vue-favorite'
 
 new Vue({
   el: '#app',
