@@ -1,7 +1,7 @@
 {
   "name": "vue-favorite",
   "description": "A Vue favorite/like/recommend component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Chimezie Enyinnaya <meziemichael@gmail.com>",
   "private": false,
   "scripts": {
